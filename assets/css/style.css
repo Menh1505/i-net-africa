@@ -2609,7 +2609,7 @@ Partner Area CSS
   /* Adjust this value as needed */
 }
 
-.partner-item:last-child {
+.partner-item:first-child {
   margin-right: 0;
 }
 
